@@ -1,3 +1,3 @@
 # Period1Examples
 
-Here are ckass examples
+Here are class examples
